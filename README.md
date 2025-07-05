@@ -1,7 +1,7 @@
 1. Repository'i klonlayın:
 ```bash
 git clone https://github.com/EmreHacihassan/Visual__Mouse.git
-cd Visual__Mouse
+cd Visual_Mouse
 ```
 
 2. Gerekli paketleri yükleyin:
